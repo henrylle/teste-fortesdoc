@@ -6,7 +6,7 @@ O objetivo deste exame é avaliar as aptidões do candidato nos itens que serão
 
 Obs: Caso a questão não fale diretamente da tecnologia utilizada é importante identificar se a mesma pode ser usada. Caso sim, faça o uso. Caso não conheça, empregue o que tiver conhecimento. O objetivo desta avaliação não é atender em 100% aos requisitos de cada questão, mas sim o emprego das tecnologias da forma correta e o máximo que puder utilizar, usando as melhores práticas conhecidas pelo candidato.
 
-Obs2: Dê um fork no projeto vazio. Após concluir, enviar o link do github para henryllemaia@grupofortes.com.br.
+Obs2: Clone o projeto. Após concluir, enviar o link do github para henryllemaia@grupofortes.com.br.
 
 ***Itens avaliados e que podem ser usados:***
 
