@@ -54,7 +54,7 @@ Obs2: Dê um fork no projeto vazio. Após concluir, enviar para henryllemaia@gru
 
 -   A entidade Produto deverá ter no mínimo 3 propriedades: Nome, Descrição e Data do Cadastro;
 
--   A entidade Fornecedor deverá ter no mínimo 5 propriedades: Razão Social, CNPJ e UF, Email Responsável e Nome Responsável;
+-   A entidade Fornecedor deverá ter no mínimo 5 propriedades: Razão Social, CNPJ,  UF, Email Responsável e Nome Responsável;
 
 -   A entidade Pedido deverá ter no mínimo 6 propriedades: valor do item, total de itens, data do pedido, código do pedido, fornecedor e produto;
 
